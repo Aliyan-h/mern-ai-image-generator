@@ -1,0 +1,37 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Dall-E",
+    "dateExported": "2023-05-08T06:52:10.627Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "6c99fdf9-3ca4-44d1-8337-f45b2b2d1c25",
+            "colId": "5b77b403-4642-4670-a94e-72c5b328f242",
+            "containerId": "",
+            "name": "GET",
+            "url": "http://localhost:8080",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-05-08T06:48:18.802Z",
+            "modified": "2023-05-08T06:49:09.931Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "07915e04-0483-4d91-a7b5-0c1b2c6a4bfb",
+            "colId": "5b77b403-4642-4670-a94e-72c5b328f242",
+            "containerId": "",
+            "name": "POST",
+            "url": "http://localhost:8080",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-08T06:49:49.083Z",
+            "modified": "2023-05-08T06:50:00.255Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
